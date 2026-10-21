@@ -1,0 +1,26 @@
+.stoplight {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  width: 100px;
+  padding: 20px;
+  background-color: #222;
+  border-radius: 16px;
+}
+
+.light {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  opacity: 0.2;
+  /* dimmed by default */
+  transition: opacity 0.3s;
+  /* smooth fade between states */
+}
+
+.light.on {
+  opacity: 1;
+  /* the lit light */
+}

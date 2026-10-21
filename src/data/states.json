@@ -1,0 +1,17 @@
+[
+    {
+        "name": "red",
+        "color": "#e53935",
+        "durationInMs": 2000
+    },
+    {
+        "name": "yellow",
+        "color": "#fdd835",
+        "durationInMs": 1000
+    },
+    {
+        "name": "green",
+        "color": "#43a047",
+        "durationInMs": 5000
+    }
+]
