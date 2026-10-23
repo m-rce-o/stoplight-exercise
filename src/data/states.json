@@ -2,7 +2,7 @@
     {
         "name": "red",
         "color": "#e53935",
-        "durationInMs": 2000
+        "durationInMs": 1000
     },
     {
         "name": "yellow",
@@ -12,6 +12,16 @@
     {
         "name": "green",
         "color": "#43a047",
-        "durationInMs": 5000
+        "durationInMs": 1000
+    },
+    {
+        "name": "purple",
+        "color": "#A020F0",
+        "durationInMs": 1000
+    },
+    {
+        "name": "orange",
+        "color": "#FFA500",
+        "durationInMs": 1000
     }
 ]
